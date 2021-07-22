@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FootHoodEFModelStoreContainer" CdmEntityContainer="FootHoodDBContext">
+    <EntitySetMapping Name="tblChats">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblChat">
+        <MappingFragment StoreEntitySet="tblChat">
+          <ScalarProperty Name="MessageSerialNum" ColumnName="MessageSerialNum" />
+          <ScalarProperty Name="MessageSendDate" ColumnName="MessageSendDate" />
+          <ScalarProperty Name="MessageContent" ColumnName="MessageContent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblEquipments">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblEquipment">
+        <MappingFragment StoreEntitySet="tblEquipment">
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="EquipmentSerialNum" ColumnName="EquipmentSerialNum" />
+          <ScalarProperty Name="EquipmentName" ColumnName="EquipmentName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblEquipmentInGames">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblEquipmentInGame">
+        <MappingFragment StoreEntitySet="tblEquipmentInGame">
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+          <ScalarProperty Name="EquipmentSerialNum" ColumnName="EquipmentSerialNum" />
+          <ScalarProperty Name="EquipmentInGameId" ColumnName="EquipmentInGameId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblFeedbacks">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblFeedback">
+        <MappingFragment StoreEntitySet="tblFeedback">
+          <ScalarProperty Name="FeedBackSubject" ColumnName="FeedBackSubject" />
+          <ScalarProperty Name="FeedBackSerialNum" ColumnName="FeedBackSerialNum" />
+          <ScalarProperty Name="FeedbackContext" ColumnName="FeedbackContext" />
+          <ScalarProperty Name="FeedbackSendDate" ColumnName="FeedbackSendDate" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblJoinRequests">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblJoinRequest">
+        <MappingFragment StoreEntitySet="tblJoinRequests">
+          <ScalarProperty Name="JoinRequestId" ColumnName="JoinRequestId" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMessageSenders">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblMessageSender">
+        <MappingFragment StoreEntitySet="tblMessageSender">
+          <ScalarProperty Name="MessageSenderId" ColumnName="MessageSenderId" />
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="MessageSerialNum" ColumnName="MessageSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPlayers">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblPlayer">
+        <MappingFragment StoreEntitySet="tblPlayer">
+          <ScalarProperty Name="DistanceOfInvites" ColumnName="DistanceOfInvites" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Passcode" ColumnName="Passcode" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="PlayerCity" ColumnName="PlayerCity" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="PlayerPicture" ColumnName="PlayerPicture" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="StrongLeg" ColumnName="StrongLeg" />
+          <ScalarProperty Name="Stamina" ColumnName="Stamina" />
+          <ScalarProperty Name="PreferredRole" ColumnName="PreferredRole" />
+          <ScalarProperty Name="PreferredLocation" ColumnName="PreferredLocation" />
+          <ScalarProperty Name="OverallRating" ColumnName="OverallRating" />
+          <ScalarProperty Name="LastSearchRadius" ColumnName="LastSearchRadius" />
+          <ScalarProperty Name="OTP" ColumnName="OTP" />
+          <ScalarProperty Name="LatitudeHomeCity" ColumnName="LatitudeHomeCity" />
+          <ScalarProperty Name="LongitudeHomeCity" ColumnName="LongitudeHomeCity" />
+          <ScalarProperty Name="TokenNotfication" ColumnName="TokenNotfication" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPlayerInTeams">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblPlayerInTeam">
+        <MappingFragment StoreEntitySet="tblPlayerInTeam">
+          <ScalarProperty Name="NumOfTimesEnteredTeam" ColumnName="NumOfTimesEnteredTeam" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPlayerRegisteredToGames">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblPlayerRegisteredToGame">
+        <MappingFragment StoreEntitySet="tblPlayerRegisteredToGame">
+          <ScalarProperty Name="BringItems" ColumnName="BringItems" />
+          <ScalarProperty Name="PlayerRegisteredToGameId" ColumnName="PlayerRegisteredToGameId" />
+          <ScalarProperty Name="WaitOrNot" ColumnName="WaitOrNot" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+          <ScalarProperty Name="GroupNumber" ColumnName="GroupNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRatings">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblRating">
+        <MappingFragment StoreEntitySet="tblRating">
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="RatingSerialNum" ColumnName="RatingSerialNum" />
+          <ScalarProperty Name="PowerRating" ColumnName="PowerRating" />
+          <ScalarProperty Name="AttackRating" ColumnName="AttackRating" />
+          <ScalarProperty Name="DefenseRating" ColumnName="DefenseRating" />
+          <ScalarProperty Name="RatingDate" ColumnName="RatingDate" />
+          <ScalarProperty Name="GameOrGenrel" ColumnName="GameOrGenrel" />
+          <ScalarProperty Name="EmailofRatingPlayer" ColumnName="EmailofRatingPlayer" />
+          <ScalarProperty Name="EmailofRatedPlayer" ColumnName="EmailofRatedPlayer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRatingOfGames">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblRatingOfGame">
+        <MappingFragment StoreEntitySet="tblRatingOfGame">
+          <ScalarProperty Name="RatingOfGameId" ColumnName="RatingOfGameId" />
+          <ScalarProperty Name="RatingSerialNum" ColumnName="RatingSerialNum" />
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSettings">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblSetting">
+        <MappingFragment StoreEntitySet="tblSettings">
+          <ScalarProperty Name="SettingSerialNum" ColumnName="SettingSerialNum" />
+          <ScalarProperty Name="SettingName" ColumnName="SettingName" />
+          <ScalarProperty Name="IsActivated" ColumnName="IsActivated" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTeams">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblTeam">
+        <MappingFragment StoreEntitySet="tblTeam">
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+          <ScalarProperty Name="TeamName" ColumnName="TeamName" />
+          <ScalarProperty Name="TeamPicture" ColumnName="TeamPicture" />
+          <ScalarProperty Name="NumOfPlayers" ColumnName="NumOfPlayers" />
+          <ScalarProperty Name="IsPrivate" ColumnName="IsPrivate" />
+          <ScalarProperty Name="RulesAndLaws" ColumnName="RulesAndLaws" />
+          <ScalarProperty Name="EmailManager" ColumnName="EmailManager" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblGames">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblGame">
+        <MappingFragment StoreEntitySet="tblGames">
+          <ScalarProperty Name="RowVersion" ColumnName="RowVersion" />
+          <ScalarProperty Name="GameLongitude" ColumnName="GameLongitude" />
+          <ScalarProperty Name="GameLatitude" ColumnName="GameLatitude" />
+          <ScalarProperty Name="FindPlayersActive" ColumnName="FindPlayersActive" />
+          <ScalarProperty Name="CreatedTableTime" ColumnName="CreatedTableTime" />
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+          <ScalarProperty Name="AvgPlayerRating" ColumnName="AvgPlayerRating" />
+          <ScalarProperty Name="AvgPlayerAge" ColumnName="AvgPlayerAge" />
+          <ScalarProperty Name="LastRegistrationTime" ColumnName="LastRegistrationTime" />
+          <ScalarProperty Name="LastRegistrationDate" ColumnName="LastRegistrationDate" />
+          <ScalarProperty Name="GameTime" ColumnName="GameTime" />
+          <ScalarProperty Name="GameDate" ColumnName="GameDate" />
+          <ScalarProperty Name="GameLocation" ColumnName="GameLocation" />
+          <ScalarProperty Name="NumOfPlayersInTeam" ColumnName="NumOfPlayersInTeam" />
+          <ScalarProperty Name="NumOfTeams" ColumnName="NumOfTeams" />
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblHotGamesMatches">
+      <EntityTypeMapping TypeName="FootHoodEFModel.tblHotGamesMatch">
+        <MappingFragment StoreEntitySet="tblHotGamesMatches">
+          <ScalarProperty Name="CreatedMatchTime" ColumnName="CreatedMatchTime" />
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="HotGamesMatchesId" ColumnName="HotGamesMatchesId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

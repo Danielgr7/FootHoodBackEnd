@@ -1,0 +1,935 @@
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csprojAssemblyReference.cache
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll.config
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.pdb
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe.config
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.rsp
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe.config
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.rsp
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.AppContext.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Console.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Compression.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Claims.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.ValueTuple.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe.config
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.rsp
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Owin.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.ComponentModel.Annotations.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Cors.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\WebGrease.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.pdb
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll.config
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.pdb
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csproj.CopyComplete
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.pdb
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll.config
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.pdb
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe.config
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.rsp
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe.config
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.rsp
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.AppContext.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Console.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Compression.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Claims.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.ValueTuple.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe.config
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.rsp
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Owin.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.ComponentModel.Annotations.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Cors.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\WebGrease.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.pdb
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll.config
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.pdb
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csprojAssemblyReference.cache
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csproj.CopyComplete
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.dll
+C:\Users\ddani\Desktop\שנה ג'\פרויקט גמר\BE\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.pdb
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\BackEnd - FootHood.dll.config
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\BackEnd - FootHood.pdb
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\csc.exe
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\csc.exe.config
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\csc.rsp
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\csi.exe
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\csi.exe.config
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\csi.rsp
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.AppContext.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Console.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.IO.Compression.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Security.Claims.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.ValueTuple.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\vbc.exe
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\vbc.exe.config
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\vbc.rsp
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Antlr3.Runtime.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\DATA.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\EntityFramework.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\EntityFramework.SqlServer.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Options.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Newtonsoft.Json.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Owin.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Buffers.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.ComponentModel.Annotations.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Memory.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Net.Http.Formatting.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Numerics.Vectors.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Text.Encodings.Web.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Cors.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Helpers.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.Cors.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.Owin.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.WebHost.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Mvc.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Optimization.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Razor.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.WebPages.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.WebPages.Razor.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\WebGrease.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\DATA.pdb
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\DATA.dll.config
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Options.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Buffers.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Memory.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Numerics.Vectors.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Text.Encodings.Web.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.Cors.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Newtonsoft.Json.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Net.Http.Formatting.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Helpers.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.WebHost.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Mvc.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Optimization.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Razor.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.WebPages.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.WebPages.Razor.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Antlr3.Runtime.pdb
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\EntityFramework.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\EntityFramework.SqlServer.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\System.Web.Http.Owin.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csprojAssemblyReference.cache
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csproj.CopyComplete
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\BackEnd---FootHood-main\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.pdb
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csprojAssemblyReference.cache
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.pdb
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll.config
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.pdb
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe.config
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.rsp
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe.config
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.rsp
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.AppContext.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Console.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Compression.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Claims.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.ValueTuple.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe.config
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.rsp
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Owin.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.ComponentModel.Annotations.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Cors.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\WebGrease.dll
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.pdb
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll.config
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.pdb
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bacha\Desktop\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csproj.CopyComplete
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll.config
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\BackEnd - FootHood.pdb
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.exe.config
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csc.rsp
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.exe.config
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\csi.rsp
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.AppContext.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Console.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Compression.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Claims.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.ValueTuple.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.exe.config
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\vbc.rsp
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Owin.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.ComponentModel.Annotations.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Cors.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\WebGrease.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.pdb
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\DATA.dll.config
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Options.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Buffers.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Memory.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Numerics.Vectors.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Text.Encodings.Web.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Cors.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Newtonsoft.Json.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Net.Http.Formatting.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Helpers.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.WebHost.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Mvc.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Optimization.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Razor.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.WebPages.Razor.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Antlr3.Runtime.pdb
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\EntityFramework.SqlServer.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\System.Web.Http.Owin.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csprojAssemblyReference.cache
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.csproj.CopyComplete
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.dll
+C:\Users\bacha\Desktop\רופין\שנה ג\שנה ג - סמסטר ב\Final-Project\ServerSide - FootHood\BackEnd - FootHood\BackEnd - FootHood\obj\Debug\BackEnd - FootHood.pdb

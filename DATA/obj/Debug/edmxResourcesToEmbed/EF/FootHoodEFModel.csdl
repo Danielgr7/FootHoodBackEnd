@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bgroup13_prodModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="FootHoodDBContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblChats" EntityType="bgroup13_prodModel.tblChat" />
+    <EntitySet Name="tblEquipments" EntityType="bgroup13_prodModel.tblEquipment" />
+    <EntitySet Name="tblEquipmentInGames" EntityType="bgroup13_prodModel.tblEquipmentInGame" />
+    <EntitySet Name="tblFeedbacks" EntityType="bgroup13_prodModel.tblFeedback" />
+    <EntitySet Name="tblMessageSenders" EntityType="bgroup13_prodModel.tblMessageSender" />
+    <EntitySet Name="tblPlayers" EntityType="bgroup13_prodModel.tblPlayer" />
+    <EntitySet Name="tblPlayerInTeams" EntityType="bgroup13_prodModel.tblPlayerInTeam" />
+    <EntitySet Name="tblRatings" EntityType="bgroup13_prodModel.tblRating" />
+    <EntitySet Name="tblRatingOfGames" EntityType="bgroup13_prodModel.tblRatingOfGame" />
+    <EntitySet Name="tblSettings" EntityType="bgroup13_prodModel.tblSetting" />
+    <AssociationSet Name="FK__tblMessag__Messa__119F9925" Association="bgroup13_prodModel.FK__tblMessag__Messa__119F9925">
+      <End Role="tblChat" EntitySet="tblChats" />
+      <End Role="tblMessageSender" EntitySet="tblMessageSenders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblEquipm__Equip__6D6238AF" Association="bgroup13_prodModel.FK__tblEquipm__Equip__6D6238AF">
+      <End Role="tblEquipment" EntitySet="tblEquipments" />
+      <End Role="tblEquipmentInGame" EntitySet="tblEquipmentInGames" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblFeedba__Email__07220AB2" Association="bgroup13_prodModel.FK__tblFeedba__Email__07220AB2">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblFeedback" EntitySet="tblFeedbacks" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblMessageSender__10AB74EC" Association="bgroup13_prodModel.FK__tblMessageSender__10AB74EC">
+      <End Role="tblPlayerInTeam" EntitySet="tblPlayerInTeams" />
+      <End Role="tblMessageSender" EntitySet="tblMessageSenders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblPlayer__Email__58671BC9" Association="bgroup13_prodModel.FK__tblPlayer__Email__58671BC9">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblPlayerInTeam" EntitySet="tblPlayerInTeams" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblRating__Email__75F77EB0" Association="bgroup13_prodModel.FK__tblRating__Email__75F77EB0">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblRating" EntitySet="tblRatings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblRating__Email__76EBA2E9" Association="bgroup13_prodModel.FK__tblRating__Email__76EBA2E9">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblRating" EntitySet="tblRatings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblSettin__Email__0169315C" Association="bgroup13_prodModel.FK__tblSettin__Email__0169315C">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblSetting" EntitySet="tblSettings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblRating__Ratin__7BB05806" Association="bgroup13_prodModel.FK__tblRating__Ratin__7BB05806">
+      <End Role="tblRating" EntitySet="tblRatings" />
+      <End Role="tblRatingOfGame" EntitySet="tblRatingOfGames" />
+    </AssociationSet>
+    <EntitySet Name="tblJoinRequests" EntityType="bgroup13_prodModel.tblJoinRequest" />
+    <AssociationSet Name="FK__tblJoinRe__Email__34E8D562" Association="bgroup13_prodModel.FK__tblJoinRe__Email__34E8D562">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblJoinRequest" EntitySet="tblJoinRequests" />
+    </AssociationSet>
+    <EntitySet Name="tblTeams" EntityType="bgroup13_prodModel.tblTeam" />
+    <AssociationSet Name="FK__tblTeam__EmailMa__53A266AC" Association="bgroup13_prodModel.FK__tblTeam__EmailMa__53A266AC">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblTeam" EntitySet="tblTeams" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblPlayer__TeamS__595B4002" Association="bgroup13_prodModel.FK__tblPlayer__TeamS__595B4002">
+      <End Role="tblTeam" EntitySet="tblTeams" />
+      <End Role="tblPlayerInTeam" EntitySet="tblPlayerInTeams" />
+    </AssociationSet>
+    <EntitySet Name="tblGames" EntityType="bgroup13_prodModel.tblGame" />
+    <AssociationSet Name="FK__tblEquipm__GameS__6C6E1476" Association="bgroup13_prodModel.FK__tblEquipm__GameS__6C6E1476">
+      <End Role="tblGame" EntitySet="tblGames" />
+      <End Role="tblEquipmentInGame" EntitySet="tblEquipmentInGames" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblGames__TeamSe__63D8CE75" Association="bgroup13_prodModel.FK__tblGames__TeamSe__63D8CE75">
+      <End Role="tblTeam" EntitySet="tblTeams" />
+      <End Role="tblGame" EntitySet="tblGames" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblJoinRe__GameS__35DCF99B" Association="bgroup13_prodModel.FK__tblJoinRe__GameS__35DCF99B">
+      <End Role="tblGame" EntitySet="tblGames" />
+      <End Role="tblJoinRequest" EntitySet="tblJoinRequests" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblRating__GameS__7CA47C3F" Association="bgroup13_prodModel.FK__tblRating__GameS__7CA47C3F">
+      <End Role="tblGame" EntitySet="tblGames" />
+      <End Role="tblRatingOfGame" EntitySet="tblRatingOfGames" />
+    </AssociationSet>
+    <EntitySet Name="tblPlayerRegisteredToGames" EntityType="bgroup13_prodModel.tblPlayerRegisteredToGame" />
+    <AssociationSet Name="FK__tblPlayer__GameS__1758727B" Association="bgroup13_prodModel.FK__tblPlayer__GameS__1758727B">
+      <End Role="tblGame" EntitySet="tblGames" />
+      <End Role="tblPlayerRegisteredToGame" EntitySet="tblPlayerRegisteredToGames" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblPlayer__Email__16644E42" Association="bgroup13_prodModel.FK__tblPlayer__Email__16644E42">
+      <End Role="tblPlayer" EntitySet="tblPlayers" />
+      <End Role="tblPlayerRegisteredToGame" EntitySet="tblPlayerRegisteredToGames" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tblChat">
+    <Key>
+      <PropertyRef Name="MessageSerialNum" />
+    </Key>
+    <Property Name="MessageSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MessageSendDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="MessageContent" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblMessageSenders" Relationship="bgroup13_prodModel.FK__tblMessag__Messa__119F9925" FromRole="tblChat" ToRole="tblMessageSender" />
+  </EntityType>
+  <EntityType Name="tblEquipment">
+    <Key>
+      <PropertyRef Name="EquipmentSerialNum" />
+    </Key>
+    <Property Name="EquipmentSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EquipmentName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblEquipmentInGames" Relationship="bgroup13_prodModel.FK__tblEquipm__Equip__6D6238AF" FromRole="tblEquipment" ToRole="tblEquipmentInGame" />
+  </EntityType>
+  <EntityType Name="tblEquipmentInGame">
+    <Key>
+      <PropertyRef Name="EquipmentInGameId" />
+    </Key>
+    <Property Name="GameSerialNum" Type="Int32" Nullable="false" />
+    <Property Name="EquipmentSerialNum" Type="Int32" Nullable="false" />
+    <Property Name="EquipmentInGameId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="tblEquipment" Relationship="bgroup13_prodModel.FK__tblEquipm__Equip__6D6238AF" FromRole="tblEquipmentInGame" ToRole="tblEquipment" />
+    <NavigationProperty Name="tblGame" Relationship="bgroup13_prodModel.FK__tblEquipm__GameS__6C6E1476" FromRole="tblEquipmentInGame" ToRole="tblGame" />
+  </EntityType>
+  <EntityType Name="tblFeedback">
+    <Key>
+      <PropertyRef Name="FeedBackSerialNum" />
+    </Key>
+    <Property Name="FeedBackSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FeedbackContext" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="FeedbackSendDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="EmailPlayer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblPlayer" Relationship="bgroup13_prodModel.FK__tblFeedba__Email__07220AB2" FromRole="tblFeedback" ToRole="tblPlayer" />
+  </EntityType>
+  <EntityType Name="tblMessageSender">
+    <Key>
+      <PropertyRef Name="MessageSenderId" />
+    </Key>
+    <Property Name="MessageSenderId" Type="Int32" Nullable="false" />
+    <Property Name="TeamSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmailPlayer" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MessageSerialNum" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblChat" Relationship="bgroup13_prodModel.FK__tblMessag__Messa__119F9925" FromRole="tblMessageSender" ToRole="tblChat" />
+    <NavigationProperty Name="tblPlayerInTeam" Relationship="bgroup13_prodModel.FK__tblMessageSender__10AB74EC" FromRole="tblMessageSender" ToRole="tblPlayerInTeam" />
+  </EntityType>
+  <EntityType Name="tblPlayer">
+    <Key>
+      <PropertyRef Name="Email" />
+    </Key>
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="Int32" Nullable="false" />
+    <Property Name="Passcode" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="Boolean" Nullable="false" />
+    <Property Name="PlayerCity" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="PlayerPicture" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Height" Type="Int32" Nullable="false" />
+    <Property Name="StrongLeg" Type="Boolean" Nullable="false" />
+    <Property Name="Stamina" Type="Int32" Nullable="false" />
+    <Property Name="PreferredRole" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="PreferredLocation" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="OverallRating" Type="Int32" />
+    <Property Name="LastSearchRadius" Type="Int32" />
+    <Property Name="OTP" Type="Int32" />
+    <NavigationProperty Name="tblFeedbacks" Relationship="bgroup13_prodModel.FK__tblFeedba__Email__07220AB2" FromRole="tblPlayer" ToRole="tblFeedback" />
+    <NavigationProperty Name="tblPlayerInTeams" Relationship="bgroup13_prodModel.FK__tblPlayer__Email__58671BC9" FromRole="tblPlayer" ToRole="tblPlayerInTeam" />
+    <NavigationProperty Name="tblRatings" Relationship="bgroup13_prodModel.FK__tblRating__Email__75F77EB0" FromRole="tblPlayer" ToRole="tblRating" />
+    <NavigationProperty Name="tblRatings1" Relationship="bgroup13_prodModel.FK__tblRating__Email__76EBA2E9" FromRole="tblPlayer" ToRole="tblRating" />
+    <NavigationProperty Name="tblSettings" Relationship="bgroup13_prodModel.FK__tblSettin__Email__0169315C" FromRole="tblPlayer" ToRole="tblSetting" />
+    <NavigationProperty Name="tblJoinRequests" Relationship="bgroup13_prodModel.FK__tblJoinRe__Email__34E8D562" FromRole="tblPlayer" ToRole="tblJoinRequest" />
+    <NavigationProperty Name="tblTeams" Relationship="bgroup13_prodModel.FK__tblTeam__EmailMa__53A266AC" FromRole="tblPlayer" ToRole="tblTeam" />
+    <NavigationProperty Name="tblPlayerRegisteredToGames" Relationship="bgroup13_prodModel.FK__tblPlayer__Email__16644E42" FromRole="tblPlayer" ToRole="tblPlayerRegisteredToGame" />
+  </EntityType>
+  <EntityType Name="tblPlayerInTeam">
+    <Key>
+      <PropertyRef Name="EmailPlayer" />
+      <PropertyRef Name="TeamSerialNum" />
+    </Key>
+    <Property Name="NumOfTimesEnteredTeam" Type="Int32" Nullable="false" />
+    <Property Name="EmailPlayer" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TeamSerialNum" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblMessageSenders" Relationship="bgroup13_prodModel.FK__tblMessageSender__10AB74EC" FromRole="tblPlayerInTeam" ToRole="tblMessageSender" />
+    <NavigationProperty Name="tblPlayer" Relationship="bgroup13_prodModel.FK__tblPlayer__Email__58671BC9" FromRole="tblPlayerInTeam" ToRole="tblPlayer" />
+    <NavigationProperty Name="tblTeam" Relationship="bgroup13_prodModel.FK__tblPlayer__TeamS__595B4002" FromRole="tblPlayerInTeam" ToRole="tblTeam" />
+  </EntityType>
+  <EntityType Name="tblRating">
+    <Key>
+      <PropertyRef Name="RatingSerialNum" />
+    </Key>
+    <Property Name="RatingSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PowerRating" Type="Int32" Nullable="false" />
+    <Property Name="AttackRating" Type="Int32" Nullable="false" />
+    <Property Name="DefenseRating" Type="Int32" Nullable="false" />
+    <Property Name="RatingDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="GameOrGenrel" Type="Boolean" Nullable="false" />
+    <Property Name="EmailofRatingPlayer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmailofRatedPlayer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblPlayer" Relationship="bgroup13_prodModel.FK__tblRating__Email__75F77EB0" FromRole="tblRating" ToRole="tblPlayer" />
+    <NavigationProperty Name="tblPlayer1" Relationship="bgroup13_prodModel.FK__tblRating__Email__76EBA2E9" FromRole="tblRating" ToRole="tblPlayer" />
+    <NavigationProperty Name="tblRatingOfGames" Relationship="bgroup13_prodModel.FK__tblRating__Ratin__7BB05806" FromRole="tblRating" ToRole="tblRatingOfGame" />
+  </EntityType>
+  <EntityType Name="tblRatingOfGame">
+    <Key>
+      <PropertyRef Name="RatingOfGameId" />
+    </Key>
+    <Property Name="RatingOfGameId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RatingSerialNum" Type="Int32" Nullable="false" />
+    <Property Name="GameSerialNum" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblRating" Relationship="bgroup13_prodModel.FK__tblRating__Ratin__7BB05806" FromRole="tblRatingOfGame" ToRole="tblRating" />
+    <NavigationProperty Name="tblGame" Relationship="bgroup13_prodModel.FK__tblRating__GameS__7CA47C3F" FromRole="tblRatingOfGame" ToRole="tblGame" />
+  </EntityType>
+  <EntityType Name="tblSetting">
+    <Key>
+      <PropertyRef Name="SettingSerialNum" />
+    </Key>
+    <Property Name="SettingSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SettingName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IsActivated" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="EmailPlayer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblPlayer" Relationship="bgroup13_prodModel.FK__tblSettin__Email__0169315C" FromRole="tblSetting" ToRole="tblPlayer" />
+  </EntityType>
+  <Association Name="FK__tblMessag__Messa__119F9925">
+    <End Type="bgroup13_prodModel.tblChat" Role="tblChat" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblMessageSender" Role="tblMessageSender" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblChat">
+        <PropertyRef Name="MessageSerialNum" />
+      </Principal>
+      <Dependent Role="tblMessageSender">
+        <PropertyRef Name="MessageSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblEquipm__Equip__6D6238AF">
+    <End Type="bgroup13_prodModel.tblEquipment" Role="tblEquipment" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblEquipmentInGame" Role="tblEquipmentInGame" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblEquipment">
+        <PropertyRef Name="EquipmentSerialNum" />
+      </Principal>
+      <Dependent Role="tblEquipmentInGame">
+        <PropertyRef Name="EquipmentSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblFeedba__Email__07220AB2">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblFeedback" Role="tblFeedback" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblFeedback">
+        <PropertyRef Name="EmailPlayer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblMessageSender__10AB74EC">
+    <End Type="bgroup13_prodModel.tblPlayerInTeam" Role="tblPlayerInTeam" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblMessageSender" Role="tblMessageSender" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayerInTeam">
+        <PropertyRef Name="EmailPlayer" />
+        <PropertyRef Name="TeamSerialNum" />
+      </Principal>
+      <Dependent Role="tblMessageSender">
+        <PropertyRef Name="EmailPlayer" />
+        <PropertyRef Name="TeamSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblPlayer__Email__58671BC9">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblPlayerInTeam" Role="tblPlayerInTeam" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblPlayerInTeam">
+        <PropertyRef Name="EmailPlayer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblRating__Email__75F77EB0">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblRating" Role="tblRating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblRating">
+        <PropertyRef Name="EmailofRatingPlayer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblRating__Email__76EBA2E9">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblRating" Role="tblRating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblRating">
+        <PropertyRef Name="EmailofRatedPlayer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblSettin__Email__0169315C">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblSetting" Role="tblSetting" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblSetting">
+        <PropertyRef Name="EmailPlayer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblRating__Ratin__7BB05806">
+    <End Type="bgroup13_prodModel.tblRating" Role="tblRating" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblRatingOfGame" Role="tblRatingOfGame" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblRating">
+        <PropertyRef Name="RatingSerialNum" />
+      </Principal>
+      <Dependent Role="tblRatingOfGame">
+        <PropertyRef Name="RatingSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="tblJoinRequest">
+    <Key>
+      <PropertyRef Name="JoinRequestId" />
+    </Key>
+    <Property Name="JoinRequestId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmailPlayer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GameSerialNum" Type="Int32" />
+    <NavigationProperty Name="tblPlayer" Relationship="bgroup13_prodModel.FK__tblJoinRe__Email__34E8D562" FromRole="tblJoinRequest" ToRole="tblPlayer" />
+    <NavigationProperty Name="tblGame" Relationship="bgroup13_prodModel.FK__tblJoinRe__GameS__35DCF99B" FromRole="tblJoinRequest" ToRole="tblGame" />
+  </EntityType>
+  <Association Name="FK__tblJoinRe__Email__34E8D562">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblJoinRequest" Role="tblJoinRequest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblJoinRequest">
+        <PropertyRef Name="EmailPlayer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="tblTeam">
+    <Key>
+      <PropertyRef Name="TeamSerialNum" />
+    </Key>
+    <Property Name="TeamSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TeamName" Type="String" Nullable="false" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="TeamPicture" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="NumOfPlayers" Type="Int32" Nullable="false" />
+    <Property Name="IsPrivate" Type="Boolean" Nullable="false" />
+    <Property Name="RulesAndLaws" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="EmailManager" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblPlayer" Relationship="bgroup13_prodModel.FK__tblTeam__EmailMa__53A266AC" FromRole="tblTeam" ToRole="tblPlayer" />
+    <NavigationProperty Name="tblPlayerInTeams" Relationship="bgroup13_prodModel.FK__tblPlayer__TeamS__595B4002" FromRole="tblTeam" ToRole="tblPlayerInTeam" />
+    <NavigationProperty Name="tblGames" Relationship="bgroup13_prodModel.FK__tblGames__TeamSe__63D8CE75" FromRole="tblTeam" ToRole="tblGame" />
+  </EntityType>
+  <Association Name="FK__tblTeam__EmailMa__53A266AC">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblTeam" Role="tblTeam" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblTeam">
+        <PropertyRef Name="EmailManager" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblPlayer__TeamS__595B4002">
+    <End Type="bgroup13_prodModel.tblTeam" Role="tblTeam" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblPlayerInTeam" Role="tblPlayerInTeam" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblTeam">
+        <PropertyRef Name="TeamSerialNum" />
+      </Principal>
+      <Dependent Role="tblPlayerInTeam">
+        <PropertyRef Name="TeamSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="tblGame">
+    <Key>
+      <PropertyRef Name="GameSerialNum" />
+    </Key>
+    <Property Name="GameSerialNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NumOfTeams" Type="Int32" Nullable="false" />
+    <Property Name="NumOfPlayersInTeam" Type="Int32" Nullable="false" />
+    <Property Name="GameLocation" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GameDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="GameTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="LastRegistrationDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="LastRegistrationTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="AvgPlayerAge" Type="Int32" />
+    <Property Name="AvgPlayerRating" Type="Int32" />
+    <Property Name="TeamSerialNum" Type="Int32" />
+    <Property Name="CreatedTableTime" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="tblEquipmentInGames" Relationship="bgroup13_prodModel.FK__tblEquipm__GameS__6C6E1476" FromRole="tblGame" ToRole="tblEquipmentInGame" />
+    <NavigationProperty Name="tblTeam" Relationship="bgroup13_prodModel.FK__tblGames__TeamSe__63D8CE75" FromRole="tblGame" ToRole="tblTeam" />
+    <NavigationProperty Name="tblJoinRequests" Relationship="bgroup13_prodModel.FK__tblJoinRe__GameS__35DCF99B" FromRole="tblGame" ToRole="tblJoinRequest" />
+    <NavigationProperty Name="tblRatingOfGames" Relationship="bgroup13_prodModel.FK__tblRating__GameS__7CA47C3F" FromRole="tblGame" ToRole="tblRatingOfGame" />
+    <NavigationProperty Name="tblPlayerRegisteredToGames" Relationship="bgroup13_prodModel.FK__tblPlayer__GameS__1758727B" FromRole="tblGame" ToRole="tblPlayerRegisteredToGame" />
+  </EntityType>
+  <Association Name="FK__tblEquipm__GameS__6C6E1476">
+    <End Type="bgroup13_prodModel.tblGame" Role="tblGame" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblEquipmentInGame" Role="tblEquipmentInGame" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblGame">
+        <PropertyRef Name="GameSerialNum" />
+      </Principal>
+      <Dependent Role="tblEquipmentInGame">
+        <PropertyRef Name="GameSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblGames__TeamSe__63D8CE75">
+    <End Type="bgroup13_prodModel.tblTeam" Role="tblTeam" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblGame" Role="tblGame" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblTeam">
+        <PropertyRef Name="TeamSerialNum" />
+      </Principal>
+      <Dependent Role="tblGame">
+        <PropertyRef Name="TeamSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblJoinRe__GameS__35DCF99B">
+    <End Type="bgroup13_prodModel.tblGame" Role="tblGame" Multiplicity="0..1" />
+    <End Type="bgroup13_prodModel.tblJoinRequest" Role="tblJoinRequest" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblGame">
+        <PropertyRef Name="GameSerialNum" />
+      </Principal>
+      <Dependent Role="tblJoinRequest">
+        <PropertyRef Name="GameSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblRating__GameS__7CA47C3F">
+    <End Type="bgroup13_prodModel.tblGame" Role="tblGame" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblRatingOfGame" Role="tblRatingOfGame" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblGame">
+        <PropertyRef Name="GameSerialNum" />
+      </Principal>
+      <Dependent Role="tblRatingOfGame">
+        <PropertyRef Name="GameSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="tblPlayerRegisteredToGame">
+    <Key>
+      <PropertyRef Name="PlayerRegisteredToGameId" />
+    </Key>
+    <Property Name="BringItems" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PlayerRegisteredToGameId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WaitOrNot" Type="Boolean" />
+    <Property Name="EmailPlayer" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GameSerialNum" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblGame" Relationship="bgroup13_prodModel.FK__tblPlayer__GameS__1758727B" FromRole="tblPlayerRegisteredToGame" ToRole="tblGame" />
+    <NavigationProperty Name="tblPlayer" Relationship="bgroup13_prodModel.FK__tblPlayer__Email__16644E42" FromRole="tblPlayerRegisteredToGame" ToRole="tblPlayer" />
+  </EntityType>
+  <Association Name="FK__tblPlayer__GameS__1758727B">
+    <End Type="bgroup13_prodModel.tblGame" Role="tblGame" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblPlayerRegisteredToGame" Role="tblPlayerRegisteredToGame" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblGame">
+        <PropertyRef Name="GameSerialNum" />
+      </Principal>
+      <Dependent Role="tblPlayerRegisteredToGame">
+        <PropertyRef Name="GameSerialNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblPlayer__Email__16644E42">
+    <End Type="bgroup13_prodModel.tblPlayer" Role="tblPlayer" Multiplicity="1" />
+    <End Type="bgroup13_prodModel.tblPlayerRegisteredToGame" Role="tblPlayerRegisteredToGame" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPlayer">
+        <PropertyRef Name="Email" />
+      </Principal>
+      <Dependent Role="tblPlayerRegisteredToGame">
+        <PropertyRef Name="EmailPlayer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

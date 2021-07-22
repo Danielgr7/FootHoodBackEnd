@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6d3a9e838bc1471797757571c6d4f17d" Name="Diagram1" ZoomLevel="126">
+        <EntityTypeShape EntityType="FootHoodEFModel.tblChat" Width="1.5" PointX="5.25" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblEquipment" Width="1.5" PointX="9.875" PointY="28" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblEquipmentInGame" Width="1.5" PointX="12.875" PointY="28" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblFeedback" Width="1.5" PointX="11.5" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblJoinRequest" Width="1.5" PointX="18.125" PointY="24" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblMessageSender" Width="1.5" PointX="7.5" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblPlayer" Width="1.5" PointX="11.5" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblPlayerInTeam" Width="1.5" PointX="7.875" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblPlayerRegisteredToGame" Width="1.5" PointX="15.375" PointY="21.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblRating" Width="1.875" PointX="4.75" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblRatingOfGame" Width="1.5" PointX="5.25" PointY="25.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblSetting" Width="1.5" PointX="15.75" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblTeam" Width="1.5" PointX="8" PointY="22.125" IsExpanded="true" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblMessag__Messa__119F9925" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblEquipm__Equip__6D6238AF" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblFeedba__Email__07220AB2" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblJoinRe__Email__34E8D562" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblMessageSender__10AB74EC" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblPlayer__Email__16644E42" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblPlayer__Email__58671BC9" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblRating__Email__75F77EB0" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblRating__Email__76EBA2E9" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblSettin__Email__0169315C" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblTeam__EmailMa__53A266AC" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblPlayer__TeamS__52793849" ManuallyRouted="false" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblRating__Ratin__7BB05806" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblGame" Width="1.5" PointX="15.875" PointY="25" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblEquipm__GameS__6C6E1476" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblGames__TeamSe__63D8CE75" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblJoinRe__GameS__35DCF99B" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblPlayer__GameS__1758727B" />
+        <AssociationConnector Association="FootHoodEFModel.FK__tblRating__GameS__7CA47C3F" />
+        <EntityTypeShape EntityType="FootHoodEFModel.tblHotGamesMatch" Width="1.5" PointX="11.375" PointY="24.75" />
+        <AssociationConnector Association="FootHoodEFModel.FK_Games" />
+        <AssociationConnector Association="FootHoodEFModel.FK_Player" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

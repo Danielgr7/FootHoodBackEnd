@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bgroup13_prodModelStoreContainer" CdmEntityContainer="FootHoodDBContext">
+    <EntitySetMapping Name="tblChats">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblChat">
+        <MappingFragment StoreEntitySet="tblChat">
+          <ScalarProperty Name="MessageContent" ColumnName="MessageContent" />
+          <ScalarProperty Name="MessageSendDate" ColumnName="MessageSendDate" />
+          <ScalarProperty Name="MessageSerialNum" ColumnName="MessageSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblEquipments">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblEquipment">
+        <MappingFragment StoreEntitySet="tblEquipment">
+          <ScalarProperty Name="EquipmentName" ColumnName="EquipmentName" />
+          <ScalarProperty Name="EquipmentSerialNum" ColumnName="EquipmentSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblEquipmentInGames">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblEquipmentInGame">
+        <MappingFragment StoreEntitySet="tblEquipmentInGame">
+          <ScalarProperty Name="EquipmentInGameId" ColumnName="EquipmentInGameId" />
+          <ScalarProperty Name="EquipmentSerialNum" ColumnName="EquipmentSerialNum" />
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblFeedbacks">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblFeedback">
+        <MappingFragment StoreEntitySet="tblFeedback">
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="FeedbackSendDate" ColumnName="FeedbackSendDate" />
+          <ScalarProperty Name="FeedbackContext" ColumnName="FeedbackContext" />
+          <ScalarProperty Name="FeedBackSerialNum" ColumnName="FeedBackSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMessageSenders">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblMessageSender">
+        <MappingFragment StoreEntitySet="tblMessageSender">
+          <ScalarProperty Name="MessageSerialNum" ColumnName="MessageSerialNum" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+          <ScalarProperty Name="MessageSenderId" ColumnName="MessageSenderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPlayers">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblPlayer">
+        <MappingFragment StoreEntitySet="tblPlayer">
+          <ScalarProperty Name="OTP" ColumnName="OTP" />
+          <ScalarProperty Name="LastSearchRadius" ColumnName="LastSearchRadius" />
+          <ScalarProperty Name="OverallRating" ColumnName="OverallRating" />
+          <ScalarProperty Name="PreferredLocation" ColumnName="PreferredLocation" />
+          <ScalarProperty Name="PreferredRole" ColumnName="PreferredRole" />
+          <ScalarProperty Name="Stamina" ColumnName="Stamina" />
+          <ScalarProperty Name="StrongLeg" ColumnName="StrongLeg" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="PlayerPicture" ColumnName="PlayerPicture" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="PlayerCity" ColumnName="PlayerCity" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Passcode" ColumnName="Passcode" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPlayerInTeams">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblPlayerInTeam">
+        <MappingFragment StoreEntitySet="tblPlayerInTeam">
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="NumOfTimesEnteredTeam" ColumnName="NumOfTimesEnteredTeam" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRatings">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblRating">
+        <MappingFragment StoreEntitySet="tblRating">
+          <ScalarProperty Name="EmailofRatedPlayer" ColumnName="EmailofRatedPlayer" />
+          <ScalarProperty Name="EmailofRatingPlayer" ColumnName="EmailofRatingPlayer" />
+          <ScalarProperty Name="GameOrGenrel" ColumnName="GameOrGenrel" />
+          <ScalarProperty Name="RatingDate" ColumnName="RatingDate" />
+          <ScalarProperty Name="DefenseRating" ColumnName="DefenseRating" />
+          <ScalarProperty Name="AttackRating" ColumnName="AttackRating" />
+          <ScalarProperty Name="PowerRating" ColumnName="PowerRating" />
+          <ScalarProperty Name="RatingSerialNum" ColumnName="RatingSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRatingOfGames">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblRatingOfGame">
+        <MappingFragment StoreEntitySet="tblRatingOfGame">
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+          <ScalarProperty Name="RatingSerialNum" ColumnName="RatingSerialNum" />
+          <ScalarProperty Name="RatingOfGameId" ColumnName="RatingOfGameId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSettings">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblSetting">
+        <MappingFragment StoreEntitySet="tblSettings">
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="IsActivated" ColumnName="IsActivated" />
+          <ScalarProperty Name="SettingName" ColumnName="SettingName" />
+          <ScalarProperty Name="SettingSerialNum" ColumnName="SettingSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblJoinRequests">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblJoinRequest">
+        <MappingFragment StoreEntitySet="tblJoinRequests">
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="JoinRequestId" ColumnName="JoinRequestId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTeams">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblTeam">
+        <MappingFragment StoreEntitySet="tblTeam">
+          <ScalarProperty Name="EmailManager" ColumnName="EmailManager" />
+          <ScalarProperty Name="RulesAndLaws" ColumnName="RulesAndLaws" />
+          <ScalarProperty Name="IsPrivate" ColumnName="IsPrivate" />
+          <ScalarProperty Name="NumOfPlayers" ColumnName="NumOfPlayers" />
+          <ScalarProperty Name="TeamPicture" ColumnName="TeamPicture" />
+          <ScalarProperty Name="TeamName" ColumnName="TeamName" />
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblGames">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblGame">
+        <MappingFragment StoreEntitySet="tblGames">
+          <ScalarProperty Name="CreatedTableTime" ColumnName="CreatedTableTime" />
+          <ScalarProperty Name="TeamSerialNum" ColumnName="TeamSerialNum" />
+          <ScalarProperty Name="AvgPlayerRating" ColumnName="AvgPlayerRating" />
+          <ScalarProperty Name="AvgPlayerAge" ColumnName="AvgPlayerAge" />
+          <ScalarProperty Name="LastRegistrationTime" ColumnName="LastRegistrationTime" />
+          <ScalarProperty Name="LastRegistrationDate" ColumnName="LastRegistrationDate" />
+          <ScalarProperty Name="GameTime" ColumnName="GameTime" />
+          <ScalarProperty Name="GameDate" ColumnName="GameDate" />
+          <ScalarProperty Name="GameLocation" ColumnName="GameLocation" />
+          <ScalarProperty Name="NumOfPlayersInTeam" ColumnName="NumOfPlayersInTeam" />
+          <ScalarProperty Name="NumOfTeams" ColumnName="NumOfTeams" />
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPlayerRegisteredToGames">
+      <EntityTypeMapping TypeName="bgroup13_prodModel.tblPlayerRegisteredToGame">
+        <MappingFragment StoreEntitySet="tblPlayerRegisteredToGame">
+          <ScalarProperty Name="GameSerialNum" ColumnName="GameSerialNum" />
+          <ScalarProperty Name="EmailPlayer" ColumnName="EmailPlayer" />
+          <ScalarProperty Name="WaitOrNot" ColumnName="WaitOrNot" />
+          <ScalarProperty Name="PlayerRegisteredToGameId" ColumnName="PlayerRegisteredToGameId" />
+          <ScalarProperty Name="BringItems" ColumnName="BringItems" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
